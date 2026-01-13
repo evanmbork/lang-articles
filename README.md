@@ -10,7 +10,7 @@ The goal of this project was to first build a small full-stack web app using **V
 
 ## How to Install / Run
 
-### Prerequisites
+### Prerequisite
 - An OpenAI API key
 
 ---
