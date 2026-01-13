@@ -18,6 +18,7 @@ The goal of this project was to first build a small full-stack web app using **V
 ### Server (Express API)
 
 1. Navigate to the server directory:
+
 cd custom-reader/server
 
 2. Install dependencies:
