@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { generateArticle, getWordInfo, ttsSpeak } from "./api";
 import "./styles.scss";
 
-const LANGS = ["Ukrainian", "Italian", "Spanish", "French", "German"];
+const LANGS = ["Ukrainian", "Italian", "Spanish", "French", "German", "Korean", "Japanese", "Chinese"];
 const LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"];
 const LENGTHS = ["short", "medium", "long"];
 
